@@ -2,7 +2,7 @@
 
 <h2>个人简介</h2>
 
-<p>个人微信 <a href="http://git.io/2048">2048 </a>，2048 是一个开源的网页游戏，它参考自游戏 <a href="https://play.google.com/store/apps/details?id=com.veewo.a1024">1024</a>。</p>
+<p> <a href="img/weixin.jpg">个人微信 </a>， <a href="img/QQ.jpg">qq</a>。</p>
 
 <p>这个网页游戏又称产品经理被虐之路。产品经理，听起来是一个很响亮的 title ，但事实上他既不是可以管人的经理，也不是可以随意调用资源的高层，他是整个产品开发流水线上的经营者。可以说，产品经理的成长之路，就是一路被虐的路。</p>
 
