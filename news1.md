@@ -1,1 +1,3 @@
-这是<br>新页面
+<h1>微信</h1>
+<img src="img/weixin.jpg" alt="Screenshot" width="500" />
+
